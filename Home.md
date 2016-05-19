@@ -6,9 +6,11 @@ Click on the links in the sidebar to the right -> to check out our collection. U
 
 ### Contact Us
 
+> _The best way to contact the Bibliotheca Anonoma is at our [IRC channel.](http://qchat.rizon.net/?channels=bibanon&uio=d4)_
+
+* [**IRC channel**](http://qchat.rizon.net/?channels=bibanon&uio=d4) - `irc.rizon.net #bibanon` - The IRC channel is the primary control room for the Bibliotheca Anonoma, where our members meet pseudoanonymously daily. Feel free to drop in, contribute anything, or even join our team anytime.
+* [Bibliotheca Anonoma BBS](http://bbs.bibanon.org) - Drop in any interesting data you've got here, post in the threads, or track a certain story/project in this anonymous imageboard.
 * [BAnonoma Twitter](https://twitter.com/BAnonoma) - We usually post quick announcements here.
-* [Bibanon General Thread](http://tb.vyrd.net/net/res/46.html#46) - You can anonymously join in, talk to us, or submit content in this General Thread at vyrd.net. We'll migrate to our own textboard sooner or later.
-* IRC channel: `irc.rizon.net #bibanon` .
 
 ### Contribute
 
@@ -20,6 +22,7 @@ We need your help and contribution to succeed. Create a Github account to edit t
 * The [Workroom](https://trello.com/b/ohziwjHI/content-to-import) contains a large stack of **stories we're still reviewing.** You can comment on it, track our progress, even help out.
   * The [Storehouse](https://drive.google.com/drive/u/0/folders/0B7WYx7u6HJh_Z3FjU2F0NFNyQWs) contains files deemed critical for archival, but still under review. We tossed them into Google Drive for now.
   * The [Internet Archive](https://archive.org/search.php?query=subject%3A%22Bibliotheca+Anonoma%22) holds most of our critically important treasures, from entire website backups to a Git backup of this wiki. 
+  * Stay on the lookout for pages that may have fallen by the wayside, are in need of maintenance, or are orphaned. Place pages [here](https://github.com/bibanon/bibanon/wiki/Maintenance).
 
 ### Introduction to Internet Culture
 
